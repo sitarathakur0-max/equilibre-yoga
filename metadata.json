@@ -1,0 +1,6 @@
+{
+  "name": "Équilibre Yoga",
+  "description": "Boutique yoga studio in Paris offering group and private sessions focused on movement, flexibility and relaxation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
